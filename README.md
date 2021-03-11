@@ -16,7 +16,7 @@
          
  ---
 ## Usage 
-    git clone https://github.com/lucafulgenzi/docker-clerar.git
+    git clone https://github.com/lucafulgenzi/docker-clear.git
     cd docker-clear
     bash docker-clear.sh  OR  zsh docker-clear.sh
     
