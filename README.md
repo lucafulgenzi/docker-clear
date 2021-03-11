@@ -18,7 +18,7 @@
 ## Usage 
     git clone https://github.com/lucafulgenzi/docker-clear.git
     cd docker-clear
-    bash docker-clear.sh  OR  zsh docker-clear.sh
+    bash docker-clear.sh
     
 ## Create alias
 If you use bash edit .bash_profile
