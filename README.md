@@ -21,11 +21,9 @@
     bash docker-clear.sh
     
 ## Create alias
-If you use bash edit .bash_profile
-
-If you use zhs edit .zshrc
-    
-    nano ~/.zshrc
-    alias docker-clear="zsh docker-clear.sh"
-    source ~/.zshrc
+Edit .bash_profile
+   
+    nano ~/.bash_profile
+    alias docker-clear="bash docker-clear.sh"
+    source ~/.bash_profile
     
