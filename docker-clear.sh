@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 BLUE='\033[34m'
 
 docker stop $(docker ps -a -q) 
